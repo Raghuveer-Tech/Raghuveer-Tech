@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Raghuveer Kumawat 👋</h1>
-<h3 align="center">Backend Engineer | MERN Stack Developer | Computer Science Engineer & Developer | CSE'26</h3>
+<h3 align="center">Software Engineer | Backend Engineer | Full Stack Developer | MERN Stack Developer | Computer Science Engineer & Developer | CSE'26</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems+with+Node.js;REST+APIs+%7C+JWT+Auth+%7C+MongoDB+Transactions;DSA+in+Java+%7C+LeetCode+Practitioner;Open+to+Software+%2F+Backend+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer+%26+Developer;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 - 🌱 Practicing **Data Structures & Algorithms in Java** on LeetCode — certified in DSA with Java (Alpha, Apna College)
 - 📍 Based in New Delhi, India
 - 💬 Ask me about: REST API design, JWT auth, MongoDB transactions, WebRTC, Java concurrency
-- 📫 Reach me: **raghuveerkumawat.ob@gmail.com**
+- 📫 Reach me: **raghuveerkumawat.work@gmail.com**
 
 ---
 
