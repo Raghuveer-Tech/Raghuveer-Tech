@@ -16,13 +16,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering, **NIMS University**, Jaipur — 2022–2026 (CGPA: 7.91/10, up to 7th sem)
-- 💼 Ex-IT Intern @ **Golcha Group**, Jaipur — ERP support across 10+ business entities on Microsoft Dynamics NAV
+- 🎓 B.Tech in Computer Science & Engineering, **NIMS University**, Jaipur, Rajsthan (India) — 2022–2026 (CGPA: 7.91/10, up to 7th sem)
+- 💼 Ex-IT Intern @ **Golcha Group**, Jaipur, Rajasthan (India) — ERP support across 10+ business entities on Microsoft Dynamics NAV
 - 🔭 Building backend-heavy full-stack systems with **Node.js, Express.js & MongoDB**
 - 🌱 Practicing **Data Structures & Algorithms in Java** on LeetCode — certified in DSA with Java (Alpha, Apna College)
 - 📍 Based in New Delhi, India
 - 💬 Ask me about: REST API design, JWT auth, MongoDB transactions, WebRTC, Java concurrency
-- 📫 Reach me: **raghuveerkumawat.ob@gmail.com**
+- 📫 Reach me: **raghuveerkumawat.work@gmail.com**
 
 ---
 
@@ -119,22 +119,6 @@ Modern personal portfolio website showcasing projects and experience.
 
 - **B.Tech, Computer Science & Engineering** — NIMS University, Jaipur (2022–2026), CGPA: 7.91/10 (up to 7th sem)
 - **Data Structures & Algorithms with Java (Alpha)** — Apna College, 2025
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Raghuveer-Tech?label=Followers&style=for-the-badge&color=2EA043" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Raghuveer-Tech&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=2EA043" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raghuveer-Tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuveer-Tech&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-<sub><i>Note: the two cards above are served by a free third-party tool (github-readme-stats) that occasionally goes down. If they don't render, the badges up top will still show live.</i></sub>
 
 ---
 
