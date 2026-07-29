@@ -96,13 +96,16 @@ Modern personal portfolio website showcasing projects and experience.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raghuveer-Tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuveer-Tech&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Raghuveer-Tech?label=Followers&style=for-the-badge&color=2EA043" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Raghuveer-Tech&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=2EA043" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghuveer-Tech&theme=github-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raghuveer-Tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuveer-Tech&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
+
+<sub><i>Note: the two cards above are served by a free third-party tool (github-readme-stats) that occasionally goes down. If they don't render, the badges up top will still show live.</i></sub>
 
 ---
 
