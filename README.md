@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering, **NIMS University**, Jaipur, Rajasthan (India) — 2022–2026 (CGPA: 7.91/10, up to 7th sem)
+- 🎓 B.Tech in Computer Science & Engineering, **NIMS University**, Jaipur, Rajasthan (India) — 2022–2026
 - 💼 Ex-IT Intern @ **Golcha Group**, Jaipur, Rajasthan (India) — ERP support across 10+ business entities on Microsoft Dynamics NAV
 - 🔭 Building backend-heavy full-stack systems with **Node.js, Express.js & MongoDB**
 - 🌱 Practicing **Data Structures & Algorithms in Java** on LeetCode — certified in DSA with Java (Alpha, Apna College)
@@ -67,58 +67,8 @@
 <img height="28" src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 </p>
 
----
+#### 🌐 [Personal Portfolio](https://portfolio-raghuveer-kumawat.vercel.app/)
 
-### 🚀 Featured Projects
-
-#### 🎥 [Orbit.io — Real-Time Video Conferencing Platform](https://github.com/Raghuveer-Tech/Orbit.io-Real-time-video-conferencing-platform)
-Full-stack video conferencing platform with real-time calls, chat, and screen sharing.
-- Built a Socket.io signaling server to manage meeting rooms and peer connections
-- Implemented peer-to-peer video/audio calling and screen sharing using WebRTC
-- Secured auth with custom JWT, bcrypt, and login rate limiting
-- Designed REST APIs and stored meeting history using Node.js, Express.js & MongoDB
-
-`React.js` `Material UI` `Node.js` `Express.js` `Socket.io` `WebRTC` `MongoDB` `Mongoose` `JWT` `bcrypt`
-
-#### ⚖️ [Backend Ledger System — Double-Entry Ledger](https://github.com/Raghuveer-Tech/backend-ledger-system)
-Backend system for secure account-to-account money transfers using a double-entry ledger.
-- Every transfer creates linked debit and credit records for full traceability
-- MongoDB transactions with rollback support and idempotency for reliable transfers
-- Secure auth with JWT, bcrypt, token blacklisting, request validation & rate limiting
-- REST APIs documented with Swagger; email notifications for transaction events
-
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt` `Swagger` `Nodemailer`
-
-#### 📡 [PacketPulse — Deep Packet Inspection Engine](https://github.com/Raghuveer-Tech/PacketPulse-Deep-Packet-Inspection-Engine)
-Multi-threaded network traffic analysis engine built in Core Java.
-- Custom PCAP parser to process Ethernet, IPv4, TCP, and UDP packets
-- Classifies HTTP/HTTPS traffic using HTTP Host and TLS SNI extraction
-- Multi-threaded packet processing pipeline using Java concurrency utilities
-- Rule engine to filter traffic by domain, application, IP address, and port
-
-`Core Java` `Multithreading` `TCP/IP` `PCAP Parsing` `TLS SNI`
-
-#### 🔗 [GetLink.ly — URL Shortener](https://github.com/Raghuveer-Tech/GetLink.ly---URL-Shortener-Application)
-Full-stack URL shortener with custom slugs, QR code generation, click analytics, and user dashboards.
-
-`React` `Node.js` `MongoDB` `MERN`
-
-#### 🏡 [Wanderlust — Accommodation Listing App](https://github.com/Raghuveer-Tech/Wanderlust---Accommodation-Listing-Web-Application)
-Full-stack accommodation listing app with auth, image upload, map integration & reviews.
-
-`Node.js` `Express.js` `MongoDB` `EJS`
-
-#### 🌐 [Personal Portfolio](https://github.com/Raghuveer-Tech/portfolio-raghuveer-kumawat) · [🌍 Live](https://portfolio-raghuveer-kumawat.vercel.app/)
-Modern personal portfolio website showcasing projects and experience.
-
-`React.js` `Tailwind CSS` `Vite` `EmailJS`
-
----
-
-### 🎓 Education & Certification
-
-- **B.Tech, Computer Science & Engineering** — NIMS University, Jaipur (2022–2026), CGPA: 7.91/10 (up to 7th sem)
-- **Data Structures & Algorithms with Java (Alpha)** — Apna College, 2025
 
 ---
 
