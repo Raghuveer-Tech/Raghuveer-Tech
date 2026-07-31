@@ -19,7 +19,7 @@
 - 🎓 B.Tech in Computer Science & Engineering, **NIMS University**, Jaipur, Rajasthan (India) — 2022–2026
 - 💼 Ex-IT Intern @ **Golcha Group**, Jaipur, Rajasthan (India) — ERP support across 10+ business entities on Microsoft Dynamics NAV
 - 🔭 Building backend-heavy full-stack systems with **Node.js, Express.js & MongoDB**
-- 🌱 Practicing **Data Structures & Algorithms in Java** on LeetCode — certified in DSA with Java (Alpha, Apna College)
+- 🌱 Practicing **Data Structures & Algorithms in Java** on LeetCode
 - 📍 Based in New Delhi, India
 - 💬 Ask me about: REST API design, JWT auth, MongoDB transactions, WebRTC, Java concurrency
 - 📫 Reach me: **raghuveerkumawat.work@gmail.com**
